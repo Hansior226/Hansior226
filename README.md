@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pathansluzbowy@gmail.com**
 
-- ⚡ Fun fact **I cassualy experiment with new things on my websites**
+- ⚡ Fun fact **I experiment with new things on my websites**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
