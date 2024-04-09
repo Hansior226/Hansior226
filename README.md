@@ -8,6 +8,8 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFjOTRmMDNiZDc0MzMyNjhhZ
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
+- 📫 How to reach me **pathansluzbowy@gmail.com**
+
 - ⚡ Fun fact **I experiment with new things on my websites**
 
 <h3 align="left">Connect with me:</h3>
